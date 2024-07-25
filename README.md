@@ -1,6 +1,5 @@
 ## Hi there, I'm Sajiv 👋
 -  I am a computer science student at UC Berkeley!
--  I’m interested in SWE, AI, Machine Learning, and Startups!
 -  How to reach me: sajivkumar@berkeley.edu
 
 <!--

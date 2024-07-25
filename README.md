@@ -1,5 +1,6 @@
 ## Hi there, I'm Sajiv 👋
 -  I am a computer science student at UC Berkeley!
+-  Most of my repositories are private, but reach out to me for a CV/Resume!
 -  How to reach me: sajivkumar@berkeley.edu
 
 <!--

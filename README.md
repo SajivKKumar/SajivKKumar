@@ -1,6 +1,6 @@
 ## Hi there, I'm Sajiv 👋
 -  I am a Computer Science Student, Intern, and Researcher at UC Berkeley!
--  A lot of my recent work is on private company accounts or repos, but reach out for a CV/Resume!
+-  A lot of my recent work is on company accounts or private repos, but reach out for a CV/Resume!
 -  How to reach me: sajivkumar@berkeley.edu
 
 <!--
